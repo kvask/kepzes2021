@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Fraunces:wght@100;400&display=swap');
+
+body{
+    background-image: url('../img/background1-min.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+header{
+    background-color: navy;
+    color: white;
+    font-weight: bold;
+    text-align: center;
+    line-height: 5rem;;
+    height: 5rem;
+}
+main{
+    background-color: rgba(255, 255, 255, 0.8);
+    margin: 0 1.2rem 1rem 1.2rem;
+    padding-bottom: 2rem;
+}
+h1, h2{
+    font-family: 'Fraunces', serif;
+}
+h1{
+    text-align: center;
+    padding-top: 1rem;
+    padding-bottom: 1.3rem;
+}
+.img-faanyag{
+    width: 9rem;
+    border-radius: 4.5rem;
+    box-shadow: 0.1rem 0.1rem 0.3rem black;
+
+}
+.img-faanyag:hover{
+    box-shadow: 0 0 0 black;
+}
+.btn-forest{
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(to right, #966F33, #855E42);
+}
+.btn-forest:hover{
+    background: linear-gradient(to right, white,  #966F33);
+}
+.img-egyfa{
+    width: 14rem;
+    border-radius: 7rem;
+    float: right;
+}
+p.egy-fa-leiras{
+    padding: 0 1rem 1rem 1rem;
+}
+table{
+    font-weight: bold;
+}
+.img-festek{
+    width: 14rem;
+}
+
+@media (max-width: 780px){
+    .img-faanyag{
+        width: 12rem;
+        border-radius: 6rem;
+    }
+}
