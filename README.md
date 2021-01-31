@@ -9,11 +9,11 @@ Közösen szerkeszthető Trello felület:
 
 Elkészült aloldalak - egyelőre még teszt tartalommal:
 
-[faaru.html](https://htmlpreview.github.io/?https://github.com/kvask/kepzes2021.github.io/blob/main/faaru.html)
+[faaru.html](https://raw.githack.com/kvask/kepzes2021/main/faaru.html)
 
-[eperfa.html](https://htmlpreview.github.io/?https://github.com/kvask/kepzes2021.github.io/blob/main/eperfa.html)
+[eperfa.html](https://raw.githack.com/kvask/kepzes2021/main/eperfa.html)
 
-[festekek.html](https://htmlpreview.github.io/?https://github.com/kvask/kepzes2021.github.io/blob/main/festekek.html)
+[festekek.html](https://raw.githack.com/kvask/kepzes2021/main/festekek.html)
 
-[rolunk.html](https://htmlpreview.github.io/?https://github.com/kvask/kepzes2021.github.io/blob/main/rolunk.html)
+[rolunk.html](https://raw.githack.com/kvask/kepzes2021/main/rolunk.html)
 
