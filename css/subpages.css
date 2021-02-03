@@ -60,6 +60,10 @@ table{
     width: 14rem;
 }
 
+dd {
+    margin-left: 2rem;
+}
+
 @media (max-width: 780px){
     .img-faanyag{
         width: 12rem;
