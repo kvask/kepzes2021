@@ -11,8 +11,6 @@ Elkészült aloldalak - egyelőre még teszt tartalommal:
 
 [faaru.html](https://raw.githack.com/kvask/kepzes2021/main/faaru.html)
 
-[eperfa.html](https://raw.githack.com/kvask/kepzes2021/main/eperfa.html)
-
 [festekek.html](https://raw.githack.com/kvask/kepzes2021/main/festekek.html)
 
 [rolunk.html](https://raw.githack.com/kvask/kepzes2021/main/rolunk.html)
