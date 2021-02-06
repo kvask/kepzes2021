@@ -66,6 +66,20 @@ dd {
     margin-left: 2rem;
 }
 
+.blog-content{
+    text-align: justify;
+}
+.box{
+    border: 1px solid rgb(138, 73, 13);
+}
+
+.calendar{
+    background-color:  rgb(138, 73, 13);
+    font-size: 1.4rem;
+    color: white;
+    padding: 0.8rem 0 0.8rem 0.2rem;
+}
+
 @media (max-width: 780px){
     .img-faanyag{
         width: 12rem;
