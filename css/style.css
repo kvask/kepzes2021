@@ -9,13 +9,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .tartalom {
-    background-color: rgba(255, 255, 255, 0.85);
+    background-color: rgb(189, 28, 22);
     min-height: 100vh;
     padding-top: 1em;
     padding-bottom: 1em;
 }
 .navbar {
-    background-color: rgb(13, 42, 138);
+    background-color: rgb(138, 73, 13);
 }
 .navbar-brand img{
     height: 50px;
