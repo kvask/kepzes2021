@@ -13,11 +13,3 @@ Your site is published at https://kvask.github.io/kepzes2021.github.io/
 [index.html](https://kvask.github.io/kepzes2021.github.io/)
 
 
-Elkészült aloldalak - egyelőre még teszt tartalommal:
-
-[faaru.html](https://raw.githack.com/kvask/kepzes2021/main/faaru.html)
-
-[festekek.html](https://raw.githack.com/kvask/kepzes2021/main/festekek.html)
-
-[rolunk.html](https://raw.githack.com/kvask/kepzes2021/main/rolunk.html)
-
