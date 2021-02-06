@@ -199,3 +199,11 @@ article h {
 .faanyagok .img-thumbnail {
     max-width: 70%;
 }
+.btn-forest{
+    color: white;
+    font-weight: bold;
+    background: linear-gradient(to right, #966F33, #855E42);
+}
+.btn-forest:hover{
+    background: linear-gradient(to right, white,  #966F33);
+}
